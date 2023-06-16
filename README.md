@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @RohanKadve
+- 🐥 When I'm not coding, you can find me trying to debug life's problems.
 - 👀 I’m interested in AI taking over the world.
 - 🌱 I’m currently pursuing my Computer Science degree.
 - 💞️ I’m open for collaborations and willing to learning new things.
