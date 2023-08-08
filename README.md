@@ -4,23 +4,23 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankadve&label=Profile%20views&color=0e75b6&style=flat" alt="rohankadve" /> </p>
 
-- 🔭 I’m currently working on **learning new skills and developing my profile.**
+- 🦾 **Ctrl+C, Ctrl+V-ing my way through life's coding challenges.**
 
 - 🌱 I’m currently **pursuing my Btech CS AI & ML specialisation.**
 
-- 👯 I’m open for **collaborations and gaining new experiences.**
+- 🔭 I’m currently working on **learning new skills and developing my profile.**
 
-- 🤝 I’m looking for **coding buddies & AI girlfriend.**
+- 👯‍♀️ I’m looking for **coding buddies & AI girlfriend.**
+
+- 🤝 I’m open for **collaborations and gaining new experiences.**
+
+- 📫 How to reach me **rohkadve@icloud.com**
 
 - 👨‍💻 Haven't done any projects yet
 
 - 📝 Yet to start writing articles.
 
-- 💬 Something about me **Ctrl+C, Ctrl+V-ing my way through life's coding challenges.**
-
-- 📫 How to reach me **rohkadve@icloud.com**
-
-- ⚡ Fun fact **I can turn pizza into code.**
+- ⚡️ Fun fact **I can turn pizza into code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
