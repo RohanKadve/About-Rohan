@@ -1,27 +1,24 @@
 ![IMG_0253](https://github.com/RohanKadve/RohanKadve/assets/136510648/20f156f5-1a18-434b-9699-b76a154ef10a)
 <h1 align="center">Hi 👋, I'm Rohan Kadve</h1>
 <h3 align="center">Debugging code and life:one error at a time.</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNranA3aWh2N243ZGxycGptczc2NHVqd2dlY2dweG9nbGM2YWEyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif”>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankadve&label=Profile%20views&color=0e75b6&style=flat" alt="rohankadve" /> </p>
 
-- 🔭 I’m currently working on **Learning new skills and developing my profile.**
+- 🔭 I’m currently working on **learning new skills and developing my profile.**
 
-- - 🌱 I’m currently **pursuing my Btech CS AI & ML specialisation.**
+- 🌱 I’m currently **pursuing my Btech CS AI & ML specialisation.**
 
-- 👯 I’m open for **collaborations and applying my knowledge.**
+- 👯 I’m open for **collaborations and gaining new experiences.**
 
-- 🤝 I’m looking for **Coding buddies.**
+- 🤝 I’m looking for **coding buddies & AI girlfriend.**
 
-- 👨‍💻 All of my projects are available at [Haven't made any yet](Haven't made any yet)
+- 👨‍💻 Haven't done any projects yet
 
-- 📝 I regularly write articles on [Don't have any yet](Don't have any yet)
+- 📝 Yet to start writing articles.
 
-- 💬 About me **Ctrl+C, Ctrl+V-ing my way through life's coding challenges.**
+- 💬 Something about me **Ctrl+C, Ctrl+V-ing my way through life's coding challenges.**
 
 - 📫 How to reach me **rohkadve@icloud.com**
-
-- 📄 Know about my experiences [None for now](None for now)
 
 - ⚡ Fun fact **I can turn pizza into code.**
 
