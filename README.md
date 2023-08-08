@@ -1,4 +1,4 @@
-![IMG_0253](https://github.com/RohanKadve/RohanKadve/assets/136510648/20f156f5-1a18-434b-9699-b76a154ef10a)
+![IMG_0253](https://github.com/RohanKadve/RohanKadve/assets/136510648/088a5d1a-155e-4fc9-8fa8-1ccac91ed743)
 <h1 align="center">Hi 👋, I'm Rohan Kadve</h1>
 <h3 align="center">Debugging code and life:one error at a time.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
