@@ -1,4 +1,12 @@
-![IMG_0253](https://github.com/RohanKadve/RohanKadve/assets/136510648/088a5d1a-155e-4fc9-8fa8-1ccac91ed743)
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+
+<h2 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!&center=false&size=20">
+  </a>
+</h2>
 <h1 align="center">Hi 👋, I'm Rohan Kadve</h1>
 <h3 align="center">Debugging code and life:one error at a time.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
@@ -20,7 +28,7 @@
 
 - 📝 Yet to start writing articles.
 
-- ⚡️ Fun fact **I can turn pizza into code.**
+- ⚡️ Fun fact **I want to turn pizza into code.**
 
 
 
