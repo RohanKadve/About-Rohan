@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **learning new skills and developing my profile.**
 
-- 👯‍♀️ I’m looking for **coding buddies & AI girlfriend.**
+- 👯‍♀️ I’m looking for **coding buddies.**
 
 - 🤝 I’m open for **collaborations and gaining new experiences.**
 
