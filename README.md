@@ -22,8 +22,6 @@
 
 - 🤝 I’m open for **collaborations and gaining new experiences.**
 
-- 📫 How to reach me **rohkadve@icloud.com**
-
 - ⚡️ Fun fact **I want to turn pizza into code.**
 
 
