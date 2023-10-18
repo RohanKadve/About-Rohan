@@ -22,7 +22,6 @@
 
 - 🤝 I’m open for **collaborations and gaining new experiences.**
 
-- ⚡️ Fun fact **I want to turn pizza into code.**
 
 
 
